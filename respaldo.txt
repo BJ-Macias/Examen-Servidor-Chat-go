@@ -1,0 +1,19 @@
+ Se conecto: Jairo
+ Se conecto: Brian
+ Se conecto: Pepe
+ Jairo: Hola todos
+ Brian: Que pasa
+ Pepe: holis
+ Jairo: Pasen el archivo que dijeron
+ Brian: ok 
+ Brian envio archivo: archivo1.txt
+ Pepe: ahi va otro
+ Pepe envio archivo: file.txt
+ Jairo: ok gracias
+ Jairo: ya me voy asta luego
+ Brian: bye
+ Pepe: adios
+ Jairo se desconecto
+ Brian se desconecto
+ Pepe se desconecto
+-
